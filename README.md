@@ -6,6 +6,6 @@ This project demonstrates my proficiency in Python, TensorFlow, Keras, Pandas, a
 My Python code and model are available in the 'keras_prediction.ipynb' file, where I have demonstrated how I cleaned the data and developed my model for house price prediction.
 
 ## Result :brain:
-[kaggle_score](score.png)
+![kaggle_score](score.png)
 
 I achieved a high accuracy score of 0.17570 in the competition, which demonstrates the effectiveness of my model with a Root-Mean-Squared-Error of 0.17570.
